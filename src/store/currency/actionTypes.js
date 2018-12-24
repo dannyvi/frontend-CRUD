@@ -1,0 +1,3 @@
+
+export const CURRENCY_FETCH = 'currency/CURRENCY_FETCH';
+export const CURRENCY_FETCH_SUCCESS = 'currency/CURRENCY_FETCH_SUCCESS';

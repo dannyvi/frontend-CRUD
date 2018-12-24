@@ -1,32 +1,32 @@
-# [react-redux-crud](https://github.com/tb/react-redux-crud)
- 
-React + Redux CRUD demo
- 
-## TODO
+This repo comes from [react-redux-crud](https://github.com/tb/react-redux-crud) for several good reasons.
 
-- [x] CRUD
-- [ ] auth
-- [ ] redux
-- [ ] tests
-- [ ] TypeScript
-- [ ] heroku deployment
- 
-## Screenshots
+* A complete CRUD functionality.
+* A clean bootstrap style User interface.
+* Interactive and Responsive experience.
+* It's based on React.
 
-### Posts Index
-![Index](docs/index.png?raw=true "Index")
+And works listed below still has to be done to finish a complete work:
 
-### Posts Edit
-![Edit](docs/edit.png?raw=true "Edit")
- 
-## Running
+* Remove the redundent modules, and reform the naming.
+* A json-server to mock the database.
+* The data structure needs to be changed to that in the challenge.
+* chart.js and coinapi to get the currency rate.
+* A test framework is neccesary, which is Jest here.
+* A basic documentation.
+* Documentation.
 
-    git clone https://github.com/tb/react-redux-crud
+Usage
+=======
+
+You need to have npm as requisites in your machine. 
+
+    git clone https://github.com/dannyvi/frontend-CRUD
     npm i
     npm run server-api
     npm start
-    open http://localhost:8080
+    open http://localhost:3000    
+    
+License
+=========
 
-## License
-
-MIT
+MIT    

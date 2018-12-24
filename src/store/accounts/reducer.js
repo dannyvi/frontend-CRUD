@@ -6,6 +6,7 @@ const initialState = Immutable({
   params: {}
 });
 
+
 export default (state = initialState, action) => {
   switch (action.type) {
     case actionTypes.FETCH_ONE_SUCCESS:

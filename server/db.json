@@ -1,0 +1,96 @@
+{
+  "accounts": [
+    {
+      "user": {
+        "name": "dadadada",
+        "surname": "uvuvu"
+      },
+      "amountInUsd": "9999000",
+      "currency": "5.60000",
+      "date": "2018-12-23",
+      "id": 8
+    },
+    {
+      "user": {
+        "name": "dddddd",
+        "surname": "1233"
+      },
+      "amountInUsd": "1111",
+      "currency": "2.29",
+      "date": "2018-12-23",
+      "id": 9
+    },
+    {
+      "user": {
+        "name": "ff1",
+        "surname": "1ff"
+      },
+      "amountInUsd": "ab",
+      "currency": "213",
+      "date": "2018-12-20",
+      "id": 10
+    }
+  ],
+  "currency": [
+    {
+      "price": "120"
+    },
+    {
+      "price": "110"
+    },
+    {
+      "price": "130"
+    },
+    {
+      "price": "150"
+    },
+    {
+      "price": "100"
+    },
+    {
+      "price": "10"
+    },
+    {
+      "price": "20"
+    },
+    {
+      "price": "320"
+    },
+    {
+      "price": "121"
+    },
+    {
+      "price": "129"
+    },
+    {
+      "price": "192"
+    },
+    {
+      "price": "120"
+    },
+    {
+      "price": "40"
+    },
+    {
+      "price": "69"
+    },
+    {
+      "price": "10"
+    },
+    {
+      "price": "40"
+    },
+    {
+      "price": "320"
+    },
+    {
+      "price": "220"
+    },
+    {
+      "price": "132"
+    },
+    {
+      "price": "188"
+    }
+  ]
+}

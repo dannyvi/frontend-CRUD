@@ -1,0 +1,10 @@
+export const FETCH_ONE = 'accounts/FETCH_ONE';
+export const FETCH_ONE_SUCCESS = 'accounts/FETCH_ONE_SUCCESS';
+export const FETCH_COLLECTION = 'accounts/FETCH_COLLECTION';
+export const FETCH_COLLECTION_SUCCESS = 'accounts/FETCH_COLLECTION_SUCCESS';
+export const CREATE = 'accounts/CREATE_POST';
+export const CREATE_SUCCESS = 'accounts/CREATE_POST_SUCCESS';
+export const UPDATE = 'accounts/UPDATE';
+export const UPDATE_SUCCESS = 'accounts/UPDATE_SUCCESS';
+export const DELETE = 'accounts/DELETE';
+export const DELETE_SUCCESS = 'accounts/DELETE_SUCCESS';
