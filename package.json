@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "build": "webpack -p --progress --config webpack.config.js",
-    "server": "webpack-dev-server --inline --progress --port 3000",
+    "server": "webpack-dev-server --inline --progress --port 3000 & json-server server/db.json --port 4000",
     "server-api": "json-server server/db.json --port 4000",
     "start": "npm run server"
   },
